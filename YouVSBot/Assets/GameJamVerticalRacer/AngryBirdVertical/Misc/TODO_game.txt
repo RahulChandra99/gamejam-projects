@@ -1,0 +1,42 @@
+TODO _ FlappyBirdMEga
+
+1.game starts with a bird in the hook and angry bird style drag and fly
+	1.camera is not following right now
+2.Flappy bird style gameplay begins till 15 pipes are encountered 
+	1.After 15 pipes 
+		1.Animation begins - screen flickers , thunder sound , in bg game still eunnning with pipes and bird
+		2.screen turns dark and new scene begins rolling
+3.New scene presents the main gameplay with move to shoot control
+
+spacebar for jumping
+right mouse button for dragandmove
+leftmousebutton for shooting
+
+
+
+
+RESET WHEN FALLS ON GROUND BEFORE PASSING LAUNCH POINT
+add slingshot
+press space to jump screen
+																																																	add coins in inital projectile
+																																																	death on collision
+
+bird animation
+inbetween show text as game progresses
+sound effects - peaceful music , jump sound
+
+
+//after 15 pipes increase speed , //increase distance , screen flickers , screen turns dark , thunder sound ,chasing something , rocks falling in bg,  rain sound  and transition into next scene
+
+//add environment
+//scroll bg with the player
+//jump only when touching the pipes to refuel
+?spawn instantiate the pipes in random positionadn location
+//modify the pipes with spikes or something
+fix colliders on pipes
+pipes are ur friend and collectables are ur foe
+//SLOW MOTION ON MOUSE DOWN
+
+
+
+MAIN MENU - SCENE LOADING TRANSITION AFTER DELAY

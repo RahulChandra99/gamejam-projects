@@ -1,0 +1,21 @@
+Modify the app to Two player Games / with computer - multiplayer - in pixel art
+Gamebogy style - Pxiel art - Retro game art
+
+Game Ideas
+[ ] Tic tac toe
+[ ] slickpuck
+[ ] Join the dots game
+
+UI and other Side Stuff
+ [ ] modify menu designs
+ [ ] make loading screens 
+ [ ] original sounds ; music ; satisfying sounds ; asmr type
+ [ ] make ui compatible on all devices
+ [ ] Collectibles , high score and other post gameplay features
+
+
+
+ Gameplay(Tic Tac Toe)
+ [ ] AI for vs Bot gameplay
+ [ ] Easy , med , hard difficulty
+ [ ] 
